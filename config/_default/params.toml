@@ -5,7 +5,7 @@ rssFullContent = true
 favicon = "/favicon.png"
 
 [footer]
-since = 2020
+since = 2025
 customText = ""
 
 [dateFormat]
@@ -130,6 +130,7 @@ siteName = ""
 [comments.giscus]
 repo = "joaco05/joaco05.github.io"
 repoID = "R_kgDOOwdH1w"
+lang = "es"
 category = "Announcements"
 categoryID = "DIC_kwDOOwdH184Cqm-6"
 mapping = "pathname"

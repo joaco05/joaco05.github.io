@@ -2,7 +2,7 @@
 title: "Sitio web gratis?"
 description: El primer post de mi sitio web
 date: 2025-05-26T18:17:35-03:00
-image: "pexels-photo-261662.webp"
+image: "mi-primer-post.webp"
 hidden: false
 comments: true
 draft: false

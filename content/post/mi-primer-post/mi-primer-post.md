@@ -6,13 +6,13 @@ image: "pexels-photo-261662.webp"
 hidden: false
 comments: true
 draft: false
-tags = [
+tags: [
     "markdown",
     "css",
     "html",
     "hugo",
 ]
-categories = [
+categories: [
     "informática",
 ]
 ---

@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: informática
+description: Cosas relacionadas a IT
 image:
 
 # Badge style

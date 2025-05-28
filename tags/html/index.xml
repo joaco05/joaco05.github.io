@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Html on Sitio Personal de Joaquín Ernesto Graña</title><link>https://granajoaco.dev.ar/tags/html/</link><description>Recent content in Html on Sitio Personal de Joaquín Ernesto Graña</description><generator>Hugo -- gohugo.io</generator><language>es-ar</language><lastBuildDate>Mon, 26 May 2025 18:17:35 -0300</lastBuildDate><atom:link href="https://granajoaco.dev.ar/tags/html/index.xml" rel="self" type="application/rss+xml"/><item><title>Sitio web gratis?</title><link>https://granajoaco.dev.ar/p/sitio-web-gratis/</link><pubDate>Mon, 26 May 2025 18:17:35 -0300</pubDate><guid>https://granajoaco.dev.ar/p/sitio-web-gratis/</guid><description>&lt;img src="https://images.pexels.com/photos/261662/pexels-photo-261662.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" alt="Featured image of post Sitio web gratis?" />&lt;h1 id="bienvenido-a-mi-primer-post">Bienvenido a mi primer post
+&lt;/h1>&lt;p>Aquí voy a empezar a publicar mis locuras, delirios, proyectos e investigaciones tecnológicas.&lt;/p>
+&lt;h2 id="cómo-fue-creado-este-sitio-web">Cómo fue creado este sitio web?
+&lt;/h2>&lt;p>Este sitio web fue creado utilizando un dominio de segundo nivel .dev.ar, estos dominios pueden ser obtenidos de forma gratuita en &lt;a class="link" href="https://home.dev.ar" target="_blank" rel="noopener"
+>home.dev.ar&lt;/a> utilizando un mail.&lt;/p>
+&lt;p>Para el hosting del sitio utilice &lt;a class="link" href="https://github.com" target="_blank" rel="noopener"
+>Github Pages&lt;/a>, de hecho si te fijas en mi cuenta de github vas a encontrar que este sitio únicamente es un registro CNAME (o alias) del sitio &lt;a class="link" href="https://joaco05.github.io" target="_blank" rel="noopener"
+>joaco05.github.io&lt;/a>.&lt;/p>
+&lt;h2 id="hugo">Hugo
+&lt;/h2>&lt;p>&lt;img src="https://gohugo.io/images/hugo-logo-wide.svg"
+loading="lazy"
+alt="Hugo Logo"
+>&lt;/p>
+&lt;p>&lt;a class="link" href="https://gohugo.io" target="_blank" rel="noopener"
+>Hugo&lt;/a> es un generador de sitios web estáticos escrito en Golang que me permite editar posts en formato Markdown.&lt;/p>
+&lt;h2 id="diseño-del-sitio">Diseño del sitio
+&lt;/h2>&lt;p>Si bien el contenido del sitio es mio en realidad el diseño del sitio es un &lt;a class="link" href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener"
+>tema de github para Hugo&lt;/a>.&lt;/p>
+&lt;p>Esto también me facilita mucho al momento de realizar cambios ya que utiliza un template de Github Actions para que yo al pushear los cambios al repositorio, se actualicen automáticamente en la web.&lt;/p>
+&lt;h2 id="comentarios">Comentarios
+&lt;/h2>&lt;p>Para los comentarios utilice &lt;a class="link" href="https://giscus.app/" target="_blank" rel="noopener"
+>Giscus&lt;/a> que me permite vincular los comentarios de mis posts utilizando el apartado discusiones en mi repo de Github.&lt;/p></description></item></channel></rss>

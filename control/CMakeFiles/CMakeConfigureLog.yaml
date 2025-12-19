@@ -17,8 +17,8 @@ events:
     checks:
       - "Looking for unistd.h"
     directories:
-      source: "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/CMakeFiles/CMakeScratch/TryCompile-68ud3G"
-      binary: "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/CMakeFiles/CMakeScratch/TryCompile-68ud3G"
+      source: "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/CMakeFiles/CMakeScratch/TryCompile-J37sNx"
+      binary: "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/CMakeFiles/CMakeScratch/TryCompile-J37sNx"
     cmakeVariables:
       CMAKE_CXX_COMPILER_CLANG_SCAN_DEPS: "/home/joaco/emsdk/upstream/emscripten/emscan-deps"
       CMAKE_C_FLAGS: ""
@@ -28,18 +28,17 @@ events:
       variable: "HAVE_UNISTD_H"
       cached: true
       stdout: |
-        Change Dir: '/home/joaco/Documentos/imgui_bundle_template/build_emscripten/CMakeFiles/CMakeScratch/TryCompile-68ud3G'
+        Change Dir: '/home/joaco/Documentos/imgui_bundle_template/build_emscripten/CMakeFiles/CMakeScratch/TryCompile-J37sNx'
         
-        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_05b54/fast
-        /usr/bin/gmake  -f CMakeFiles/cmTC_05b54.dir/build.make CMakeFiles/cmTC_05b54.dir/build
-        gmake[1]: se entra en el directorio '/home/joaco/Documentos/imgui_bundle_template/build_emscripten/CMakeFiles/CMakeScratch/TryCompile-68ud3G'
-        Building C object CMakeFiles/cmTC_05b54.dir/CheckIncludeFile.c.o
-        /home/joaco/emsdk/upstream/emscripten/emcc    -MD -MT CMakeFiles/cmTC_05b54.dir/CheckIncludeFile.c.o -MF CMakeFiles/cmTC_05b54.dir/CheckIncludeFile.c.o.d -o CMakeFiles/cmTC_05b54.dir/CheckIncludeFile.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/CMakeFiles/CMakeScratch/TryCompile-68ud3G/CheckIncludeFile.c
-        shared:INFO: (Emscripten: Running sanity checks)
-        Linking C executable cmTC_05b54.js
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_05b54.dir/link.txt --verbose=1
-        /home/joaco/emsdk/upstream/emscripten/emcc @CMakeFiles/cmTC_05b54.dir/objects1.rsp -o cmTC_05b54.js
-        gmake[1]: se sale del directorio '/home/joaco/Documentos/imgui_bundle_template/build_emscripten/CMakeFiles/CMakeScratch/TryCompile-68ud3G'
+        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_295cf/fast
+        /usr/bin/gmake  -f CMakeFiles/cmTC_295cf.dir/build.make CMakeFiles/cmTC_295cf.dir/build
+        gmake[1]: se entra en el directorio '/home/joaco/Documentos/imgui_bundle_template/build_emscripten/CMakeFiles/CMakeScratch/TryCompile-J37sNx'
+        Building C object CMakeFiles/cmTC_295cf.dir/CheckIncludeFile.c.o
+        /home/joaco/emsdk/upstream/emscripten/emcc    -MD -MT CMakeFiles/cmTC_295cf.dir/CheckIncludeFile.c.o -MF CMakeFiles/cmTC_295cf.dir/CheckIncludeFile.c.o.d -o CMakeFiles/cmTC_295cf.dir/CheckIncludeFile.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/CMakeFiles/CMakeScratch/TryCompile-J37sNx/CheckIncludeFile.c
+        Linking C executable cmTC_295cf.js
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_295cf.dir/link.txt --verbose=1
+        /home/joaco/emsdk/upstream/emscripten/emcc @CMakeFiles/cmTC_295cf.dir/objects1.rsp -o cmTC_295cf.js
+        gmake[1]: se sale del directorio '/home/joaco/Documentos/imgui_bundle_template/build_emscripten/CMakeFiles/CMakeScratch/TryCompile-J37sNx'
         
       exitCode: 0
   -
@@ -50,8 +49,8 @@ events:
     checks:
       - "Looking for fcntl.h"
     directories:
-      source: "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/CMakeFiles/CMakeScratch/TryCompile-AHfWR4"
-      binary: "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/CMakeFiles/CMakeScratch/TryCompile-AHfWR4"
+      source: "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/CMakeFiles/CMakeScratch/TryCompile-Fz4bwx"
+      binary: "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/CMakeFiles/CMakeScratch/TryCompile-Fz4bwx"
     cmakeVariables:
       CMAKE_CXX_COMPILER_CLANG_SCAN_DEPS: "/home/joaco/emsdk/upstream/emscripten/emscan-deps"
       CMAKE_C_FLAGS: ""
@@ -61,17 +60,17 @@ events:
       variable: "HAVE_FCNTL_H"
       cached: true
       stdout: |
-        Change Dir: '/home/joaco/Documentos/imgui_bundle_template/build_emscripten/CMakeFiles/CMakeScratch/TryCompile-AHfWR4'
+        Change Dir: '/home/joaco/Documentos/imgui_bundle_template/build_emscripten/CMakeFiles/CMakeScratch/TryCompile-Fz4bwx'
         
-        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_322ff/fast
-        /usr/bin/gmake  -f CMakeFiles/cmTC_322ff.dir/build.make CMakeFiles/cmTC_322ff.dir/build
-        gmake[1]: se entra en el directorio '/home/joaco/Documentos/imgui_bundle_template/build_emscripten/CMakeFiles/CMakeScratch/TryCompile-AHfWR4'
-        Building C object CMakeFiles/cmTC_322ff.dir/CheckIncludeFile.c.o
-        /home/joaco/emsdk/upstream/emscripten/emcc    -MD -MT CMakeFiles/cmTC_322ff.dir/CheckIncludeFile.c.o -MF CMakeFiles/cmTC_322ff.dir/CheckIncludeFile.c.o.d -o CMakeFiles/cmTC_322ff.dir/CheckIncludeFile.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/CMakeFiles/CMakeScratch/TryCompile-AHfWR4/CheckIncludeFile.c
-        Linking C executable cmTC_322ff.js
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_322ff.dir/link.txt --verbose=1
-        /home/joaco/emsdk/upstream/emscripten/emcc @CMakeFiles/cmTC_322ff.dir/objects1.rsp -o cmTC_322ff.js
-        gmake[1]: se sale del directorio '/home/joaco/Documentos/imgui_bundle_template/build_emscripten/CMakeFiles/CMakeScratch/TryCompile-AHfWR4'
+        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_e9f48/fast
+        /usr/bin/gmake  -f CMakeFiles/cmTC_e9f48.dir/build.make CMakeFiles/cmTC_e9f48.dir/build
+        gmake[1]: se entra en el directorio '/home/joaco/Documentos/imgui_bundle_template/build_emscripten/CMakeFiles/CMakeScratch/TryCompile-Fz4bwx'
+        Building C object CMakeFiles/cmTC_e9f48.dir/CheckIncludeFile.c.o
+        /home/joaco/emsdk/upstream/emscripten/emcc    -MD -MT CMakeFiles/cmTC_e9f48.dir/CheckIncludeFile.c.o -MF CMakeFiles/cmTC_e9f48.dir/CheckIncludeFile.c.o.d -o CMakeFiles/cmTC_e9f48.dir/CheckIncludeFile.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/CMakeFiles/CMakeScratch/TryCompile-Fz4bwx/CheckIncludeFile.c
+        Linking C executable cmTC_e9f48.js
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e9f48.dir/link.txt --verbose=1
+        /home/joaco/emsdk/upstream/emscripten/emcc @CMakeFiles/cmTC_e9f48.dir/objects1.rsp -o cmTC_e9f48.js
+        gmake[1]: se sale del directorio '/home/joaco/Documentos/imgui_bundle_template/build_emscripten/CMakeFiles/CMakeScratch/TryCompile-Fz4bwx'
         
       exitCode: 0
 ...

@@ -182,17 +182,17 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named imgui_bundle_example_integration
+# Target rules for targets named analizador
 
 # Build rule for target.
-imgui_bundle_example_integration: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 imgui_bundle_example_integration
-.PHONY : imgui_bundle_example_integration
+analizador: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 analizador
+.PHONY : analizador
 
 # fast build rule for target.
-imgui_bundle_example_integration/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/imgui_bundle_example_integration.dir/build.make CMakeFiles/imgui_bundle_example_integration.dir/build
-.PHONY : imgui_bundle_example_integration/fast
+analizador/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/analizador.dir/build.make CMakeFiles/analizador.dir/build
+.PHONY : analizador/fast
 
 #=============================================================================
 # Target rules for targets named imgui
@@ -532,29 +532,29 @@ immapp/fast:
 	$(MAKE) $(MAKESILENT) -f external/imgui_bundle/external/immapp/immapp/CMakeFiles/immapp.dir/build.make external/imgui_bundle/external/immapp/immapp/CMakeFiles/immapp.dir/build
 .PHONY : immapp/fast
 
-hello_world.o: hello_world.cpp.o
-.PHONY : hello_world.o
+main.o: main.cpp.o
+.PHONY : main.o
 
 # target to build an object file
-hello_world.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/imgui_bundle_example_integration.dir/build.make CMakeFiles/imgui_bundle_example_integration.dir/hello_world.cpp.o
-.PHONY : hello_world.cpp.o
+main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/analizador.dir/build.make CMakeFiles/analizador.dir/main.cpp.o
+.PHONY : main.cpp.o
 
-hello_world.i: hello_world.cpp.i
-.PHONY : hello_world.i
+main.i: main.cpp.i
+.PHONY : main.i
 
 # target to preprocess a source file
-hello_world.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/imgui_bundle_example_integration.dir/build.make CMakeFiles/imgui_bundle_example_integration.dir/hello_world.cpp.i
-.PHONY : hello_world.cpp.i
+main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/analizador.dir/build.make CMakeFiles/analizador.dir/main.cpp.i
+.PHONY : main.cpp.i
 
-hello_world.s: hello_world.cpp.s
-.PHONY : hello_world.s
+main.s: main.cpp.s
+.PHONY : main.s
 
 # target to generate assembly for a file
-hello_world.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/imgui_bundle_example_integration.dir/build.make CMakeFiles/imgui_bundle_example_integration.dir/hello_world.cpp.s
-.PHONY : hello_world.cpp.s
+main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/analizador.dir/build.make CMakeFiles/analizador.dir/main.cpp.s
+.PHONY : main.cpp.s
 
 # Help Target
 help:
@@ -570,12 +570,12 @@ help:
 	@echo "... package"
 	@echo "... package_source"
 	@echo "... rebuild_cache"
+	@echo "... analizador"
 	@echo "... freetype"
 	@echo "... hello_imgui"
 	@echo "... im_file_dialog"
 	@echo "... imcoolbar"
 	@echo "... imgui"
-	@echo "... imgui_bundle_example_integration"
 	@echo "... imgui_color_text_edit"
 	@echo "... imgui_command_palette"
 	@echo "... imgui_knobs"
@@ -597,9 +597,9 @@ help:
 	@echo "... plutovg"
 	@echo "... smiley"
 	@echo "... stb_hello_imgui"
-	@echo "... hello_world.o"
-	@echo "... hello_world.i"
-	@echo "... hello_world.s"
+	@echo "... main.o"
+	@echo "... main.i"
+	@echo "... main.s"
 .PHONY : help
 
 

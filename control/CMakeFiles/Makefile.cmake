@@ -123,8 +123,8 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "CMakeFiles/3.31.6/CMakeSystem.cmake"
   "CMakeFiles/3.31.6/CMakeCCompiler.cmake"
   "CMakeFiles/3.31.6/CMakeCXXCompiler.cmake"
-  "imgui_bundle_example_integration_favicon.png"
-  "tmp/shell.emscripten_imgui_bundle_example_integration.html"
+  "analizador_favicon.png"
+  "tmp/shell.emscripten_analizador.html"
   "CMakeFiles/CMakeDirectoryInformation.cmake"
   "external/imgui_bundle/CMakeFiles/CMakeDirectoryInformation.cmake"
   "external/imgui_bundle/external/CMakeFiles/CMakeDirectoryInformation.cmake"
@@ -155,7 +155,7 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
-  "CMakeFiles/imgui_bundle_example_integration.dir/DependInfo.cmake"
+  "CMakeFiles/analizador.dir/DependInfo.cmake"
   "external/imgui_bundle/external/CMakeFiles/imgui.dir/DependInfo.cmake"
   "external/imgui_bundle/external/CMakeFiles/implot.dir/DependInfo.cmake"
   "external/imgui_bundle/external/CMakeFiles/implot3d.dir/DependInfo.cmake"

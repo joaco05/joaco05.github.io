@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/joaco/Documentos/imgui_bundle_template/hello_world.cpp" "CMakeFiles/imgui_bundle_example_integration.dir/hello_world.cpp.o" "gcc" "CMakeFiles/imgui_bundle_example_integration.dir/hello_world.cpp.o.d"
+  "/home/joaco/Documentos/imgui_bundle_template/main.cpp" "CMakeFiles/analizador.dir/main.cpp.o" "gcc" "CMakeFiles/analizador.dir/main.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

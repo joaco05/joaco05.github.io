@@ -39,7 +39,7 @@ endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "/home/joaco/emsdk/upstream/emscripten/cache/sysroot/imgui_bundle_example_integration.html;/home/joaco/emsdk/upstream/emscripten/cache/sysroot/imgui_bundle_example_integration.data;/home/joaco/emsdk/upstream/emscripten/cache/sysroot/imgui_bundle_example_integration.js;/home/joaco/emsdk/upstream/emscripten/cache/sysroot/imgui_bundle_example_integration.wasm")
+   "/home/joaco/emsdk/upstream/emscripten/cache/sysroot/analizador.html;/home/joaco/emsdk/upstream/emscripten/cache/sysroot/analizador.data;/home/joaco/emsdk/upstream/emscripten/cache/sysroot/analizador.js;/home/joaco/emsdk/upstream/emscripten/cache/sysroot/analizador.wasm")
   if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
@@ -47,16 +47,16 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
   file(INSTALL DESTINATION "/home/joaco/emsdk/upstream/emscripten/cache/sysroot" TYPE FILE FILES
-    "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/imgui_bundle_example_integration.html"
-    "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/imgui_bundle_example_integration.data"
-    "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/imgui_bundle_example_integration.js"
-    "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/imgui_bundle_example_integration.wasm"
+    "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/analizador.html"
+    "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/analizador.data"
+    "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/analizador.js"
+    "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/analizador.wasm"
     )
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "/home/joaco/emsdk/upstream/emscripten/cache/sysroot/imgui_bundle_example_integration.html;/home/joaco/emsdk/upstream/emscripten/cache/sysroot/imgui_bundle_example_integration.data;/home/joaco/emsdk/upstream/emscripten/cache/sysroot/imgui_bundle_example_integration.js;/home/joaco/emsdk/upstream/emscripten/cache/sysroot/imgui_bundle_example_integration.wasm")
+   "/home/joaco/emsdk/upstream/emscripten/cache/sysroot/analizador.html;/home/joaco/emsdk/upstream/emscripten/cache/sysroot/analizador.data;/home/joaco/emsdk/upstream/emscripten/cache/sysroot/analizador.js;/home/joaco/emsdk/upstream/emscripten/cache/sysroot/analizador.wasm")
   if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
@@ -64,23 +64,23 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
   file(INSTALL DESTINATION "/home/joaco/emsdk/upstream/emscripten/cache/sysroot" TYPE FILE FILES
-    "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/imgui_bundle_example_integration.html"
-    "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/imgui_bundle_example_integration.data"
-    "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/imgui_bundle_example_integration.js"
-    "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/imgui_bundle_example_integration.wasm"
+    "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/analizador.html"
+    "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/analizador.data"
+    "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/analizador.js"
+    "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/analizador.wasm"
     )
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "/home/joaco/emsdk/upstream/emscripten/cache/sysroot/imgui_bundle_example_integration_favicon.png")
+   "/home/joaco/emsdk/upstream/emscripten/cache/sysroot/analizador_favicon.png")
   if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-  file(INSTALL DESTINATION "/home/joaco/emsdk/upstream/emscripten/cache/sysroot" TYPE FILE FILES "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/imgui_bundle_example_integration_favicon.png")
+  file(INSTALL DESTINATION "/home/joaco/emsdk/upstream/emscripten/cache/sysroot" TYPE FILE FILES "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/analizador_favicon.png")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)

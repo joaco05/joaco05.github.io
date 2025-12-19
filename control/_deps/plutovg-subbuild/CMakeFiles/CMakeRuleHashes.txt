@@ -1,0 +1,11 @@
+# Hashes of file build rules.
+4c6e2d885a086ca1fc45c76a0b532499 CMakeFiles/plutovg-populate
+c920a1ec480df5aef1309e35e98aee72 CMakeFiles/plutovg-populate-complete
+72526f7889cafa3b797ecd3bd085ae8e plutovg-populate-prefix/src/plutovg-populate-stamp/plutovg-populate-build
+e58d616e57d662b86d36383aca20c966 plutovg-populate-prefix/src/plutovg-populate-stamp/plutovg-populate-configure
+e1adb81160beab2a9a99a4ec00bbb87b plutovg-populate-prefix/src/plutovg-populate-stamp/plutovg-populate-download
+81e76406ea55133af506454d20dc396e plutovg-populate-prefix/src/plutovg-populate-stamp/plutovg-populate-install
+633dddeefd7b4e377e2dd6ed9823eaeb plutovg-populate-prefix/src/plutovg-populate-stamp/plutovg-populate-mkdir
+5646b091c223d1e25aa73a65a93b4b08 plutovg-populate-prefix/src/plutovg-populate-stamp/plutovg-populate-patch
+b6cdc5eaec09f79c6f0e0e768461e9cd plutovg-populate-prefix/src/plutovg-populate-stamp/plutovg-populate-test
+fede2eef58162a027d74ff522564dfc4 plutovg-populate-prefix/src/plutovg-populate-stamp/plutovg-populate-update

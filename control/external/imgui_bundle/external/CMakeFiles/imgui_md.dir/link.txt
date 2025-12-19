@@ -1,0 +1,2 @@
+/home/joaco/emsdk/upstream/emscripten/emar qc libimgui_md.a CMakeFiles/imgui_md.dir/imgui_md/imgui_md/imgui_md.cpp.o CMakeFiles/imgui_md.dir/imgui_md/md4c/src/md4c.c.o CMakeFiles/imgui_md.dir/imgui_md/imgui_md_wrapper/imgui_md_wrapper.cpp.o
+/home/joaco/emsdk/upstream/emscripten/emranlib libimgui_md.a

@@ -1,0 +1,28 @@
+external/imgui_bundle/external/CMakeFiles/imgui_md.dir/imgui_md/md4c/src/md4c.c.o: \
+  /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/imgui_md/md4c/src/md4c.c \
+  /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/imgui_md/md4c/src/md4c.h \
+  /home/joaco/emsdk/upstream/lib/clang/22/include/limits.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/limits.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/features.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/bits/alltypes.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/bits/limits.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/stdio.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/wasi/api.h \
+  /home/joaco/emsdk/upstream/lib/clang/22/include/stddef.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/stddef.h \
+  /home/joaco/emsdk/upstream/lib/clang/22/include/__stddef_header_macro.h \
+  /home/joaco/emsdk/upstream/lib/clang/22/include/__stddef_ptrdiff_t.h \
+  /home/joaco/emsdk/upstream/lib/clang/22/include/__stddef_size_t.h \
+  /home/joaco/emsdk/upstream/lib/clang/22/include/__stddef_wchar_t.h \
+  /home/joaco/emsdk/upstream/lib/clang/22/include/__stddef_null.h \
+  /home/joaco/emsdk/upstream/lib/clang/22/include/__stddef_max_align_t.h \
+  /home/joaco/emsdk/upstream/lib/clang/22/include/__stddef_offsetof.h \
+  /home/joaco/emsdk/upstream/lib/clang/22/include/stdint.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/stdint.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/bits/stdint.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/compat/stdlib.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/stdlib.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/alloca.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/compat/string.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/string.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/strings.h

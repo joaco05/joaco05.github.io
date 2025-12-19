@@ -1,0 +1,2 @@
+/home/joaco/emsdk/upstream/emscripten/emar qc libstb_hello_imgui.a CMakeFiles/stb_hello_imgui.dir/__/__/external/stb_hello_imgui/stb_impl_hello_imgui.cpp.o
+/home/joaco/emsdk/upstream/emscripten/emranlib libstb_hello_imgui.a

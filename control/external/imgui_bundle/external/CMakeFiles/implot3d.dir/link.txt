@@ -1,0 +1,2 @@
+/home/joaco/emsdk/upstream/emscripten/emar qc libimplot3d.a CMakeFiles/implot3d.dir/implot3d/implot3d/implot3d.cpp.o CMakeFiles/implot3d.dir/implot3d/implot3d/implot3d_demo.cpp.o CMakeFiles/implot3d.dir/implot3d/implot3d/implot3d_items.cpp.o CMakeFiles/implot3d.dir/implot3d/implot3d/implot3d_meshes.cpp.o
+/home/joaco/emsdk/upstream/emscripten/emranlib libimplot3d.a

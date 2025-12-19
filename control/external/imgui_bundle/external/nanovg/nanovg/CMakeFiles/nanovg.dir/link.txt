@@ -1,0 +1,2 @@
+/home/joaco/emsdk/upstream/emscripten/emar qc libnanovg.a CMakeFiles/nanovg.dir/src/nanovg.c.o
+/home/joaco/emsdk/upstream/emscripten/emranlib libnanovg.a

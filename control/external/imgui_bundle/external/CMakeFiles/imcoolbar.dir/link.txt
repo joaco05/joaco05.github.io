@@ -1,0 +1,2 @@
+/home/joaco/emsdk/upstream/emscripten/emar qc libimcoolbar.a CMakeFiles/imcoolbar.dir/ImCoolBar/ImCoolBar/ImCoolBar.cpp.o
+/home/joaco/emsdk/upstream/emscripten/emranlib libimcoolbar.a

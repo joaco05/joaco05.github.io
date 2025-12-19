@@ -1,0 +1,1 @@
+/home/joaco/emsdk/upstream/emscripten/emcc -O3 -DNDEBUG -sASSERTIONS @CMakeFiles/smiley.dir/objects1.rsp -o smiley.js @CMakeFiles/smiley.dir/linkLibs.rsp

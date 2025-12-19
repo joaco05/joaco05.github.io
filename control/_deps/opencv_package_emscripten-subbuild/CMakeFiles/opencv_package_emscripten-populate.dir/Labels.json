@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/opencv_package_emscripten-subbuild/CMakeFiles/opencv_package_emscripten-populate"
+		},
+		{
+			"file" : "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/opencv_package_emscripten-subbuild/CMakeFiles/opencv_package_emscripten-populate.rule"
+		},
+		{
+			"file" : "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/opencv_package_emscripten-subbuild/CMakeFiles/opencv_package_emscripten-populate-complete.rule"
+		},
+		{
+			"file" : "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/opencv_package_emscripten-subbuild/opencv_package_emscripten-populate-prefix/src/opencv_package_emscripten-populate-stamp/opencv_package_emscripten-populate-build.rule"
+		},
+		{
+			"file" : "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/opencv_package_emscripten-subbuild/opencv_package_emscripten-populate-prefix/src/opencv_package_emscripten-populate-stamp/opencv_package_emscripten-populate-configure.rule"
+		},
+		{
+			"file" : "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/opencv_package_emscripten-subbuild/opencv_package_emscripten-populate-prefix/src/opencv_package_emscripten-populate-stamp/opencv_package_emscripten-populate-download.rule"
+		},
+		{
+			"file" : "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/opencv_package_emscripten-subbuild/opencv_package_emscripten-populate-prefix/src/opencv_package_emscripten-populate-stamp/opencv_package_emscripten-populate-install.rule"
+		},
+		{
+			"file" : "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/opencv_package_emscripten-subbuild/opencv_package_emscripten-populate-prefix/src/opencv_package_emscripten-populate-stamp/opencv_package_emscripten-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/opencv_package_emscripten-subbuild/opencv_package_emscripten-populate-prefix/src/opencv_package_emscripten-populate-stamp/opencv_package_emscripten-populate-patch.rule"
+		},
+		{
+			"file" : "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/opencv_package_emscripten-subbuild/opencv_package_emscripten-populate-prefix/src/opencv_package_emscripten-populate-stamp/opencv_package_emscripten-populate-test.rule"
+		},
+		{
+			"file" : "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/opencv_package_emscripten-subbuild/opencv_package_emscripten-populate-prefix/src/opencv_package_emscripten-populate-stamp/opencv_package_emscripten-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"opencv_package_emscripten-populate"
+		],
+		"name" : "opencv_package_emscripten-populate"
+	}
+}

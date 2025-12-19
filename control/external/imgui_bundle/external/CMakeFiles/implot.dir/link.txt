@@ -1,0 +1,2 @@
+/home/joaco/emsdk/upstream/emscripten/emar qc libimplot.a CMakeFiles/implot.dir/implot/implot/implot.cpp.o CMakeFiles/implot.dir/implot/implot/implot_demo.cpp.o CMakeFiles/implot.dir/implot/implot/implot_items.cpp.o
+/home/joaco/emsdk/upstream/emscripten/emranlib libimplot.a

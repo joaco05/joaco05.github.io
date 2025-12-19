@@ -1,0 +1,14 @@
+# Target labels
+ plutosvg-populate
+# Source files and their labels
+/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/plutosvg-subbuild/CMakeFiles/plutosvg-populate
+/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/plutosvg-subbuild/CMakeFiles/plutosvg-populate.rule
+/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/plutosvg-subbuild/CMakeFiles/plutosvg-populate-complete.rule
+/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/plutosvg-subbuild/plutosvg-populate-prefix/src/plutosvg-populate-stamp/plutosvg-populate-build.rule
+/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/plutosvg-subbuild/plutosvg-populate-prefix/src/plutosvg-populate-stamp/plutosvg-populate-configure.rule
+/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/plutosvg-subbuild/plutosvg-populate-prefix/src/plutosvg-populate-stamp/plutosvg-populate-download.rule
+/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/plutosvg-subbuild/plutosvg-populate-prefix/src/plutosvg-populate-stamp/plutosvg-populate-install.rule
+/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/plutosvg-subbuild/plutosvg-populate-prefix/src/plutosvg-populate-stamp/plutosvg-populate-mkdir.rule
+/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/plutosvg-subbuild/plutosvg-populate-prefix/src/plutosvg-populate-stamp/plutosvg-populate-patch.rule
+/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/plutosvg-subbuild/plutosvg-populate-prefix/src/plutosvg-populate-stamp/plutosvg-populate-test.rule
+/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/plutosvg-subbuild/plutosvg-populate-prefix/src/plutosvg-populate-stamp/plutosvg-populate-update.rule

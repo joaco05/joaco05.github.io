@@ -1,0 +1,2 @@
+/home/joaco/emsdk/upstream/emscripten/emar qc libimspinner.a CMakeFiles/imspinner.dir/imspinner/imspinner/imspinner.cpp.o
+/home/joaco/emsdk/upstream/emscripten/emranlib libimspinner.a

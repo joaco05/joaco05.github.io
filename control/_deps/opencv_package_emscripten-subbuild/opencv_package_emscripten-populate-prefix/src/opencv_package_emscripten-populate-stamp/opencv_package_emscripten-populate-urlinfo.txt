@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=/usr/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/opencv_package_emscripten-subbuild/opencv_package_emscripten-populate-prefix/src/opencv_package_emscripten-populate-stamp/download-opencv_package_emscripten-populate.cmake;COMMAND;/usr/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/opencv_package_emscripten-subbuild/opencv_package_emscripten-populate-prefix/src/opencv_package_emscripten-populate-stamp/verify-opencv_package_emscripten-populate.cmake;COMMAND;/usr/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/opencv_package_emscripten-subbuild/opencv_package_emscripten-populate-prefix/src/opencv_package_emscripten-populate-stamp/extract-opencv_package_emscripten-populate.cmake
+source_dir=/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/opencv_package_emscripten-src
+work_dir=/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps
+url(s)=https://github.com/pthom/imgui_bundle/releases/download/v1.3.0/opencv_4.9_no_pthread_emscripten_install.tgz
+hash=MD5=2a9e65542123548bec1b80ee2cb6056e
+      no_extract=
+

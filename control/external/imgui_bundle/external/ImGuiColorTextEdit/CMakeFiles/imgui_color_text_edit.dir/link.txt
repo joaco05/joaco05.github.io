@@ -1,0 +1,2 @@
+/home/joaco/emsdk/upstream/emscripten/emar qc libimgui_color_text_edit.a CMakeFiles/imgui_color_text_edit.dir/ImGuiColorTextEdit/ImGuiDebugPanel.cpp.o CMakeFiles/imgui_color_text_edit.dir/ImGuiColorTextEdit/LanguageDefinitions.cpp.o CMakeFiles/imgui_color_text_edit.dir/ImGuiColorTextEdit/TextEditor.cpp.o CMakeFiles/imgui_color_text_edit.dir/ImGuiColorTextEdit/UnitTests.cpp.o
+/home/joaco/emsdk/upstream/emscripten/emranlib libimgui_color_text_edit.a

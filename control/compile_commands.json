@@ -1,0 +1,782 @@
+[
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC @CMakeFiles/plutosvg.dir/includes_C.rsp -O3 -DNDEBUG -fPIC -o CMakeFiles/plutosvg.dir/__/__/__/__/__/__/__/plutosvg_source/source/plutosvg.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/plutosvg_source/source/plutosvg.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/plutosvg_source/source/plutosvg.c",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/plutosvg.dir/__/__/__/__/__/__/__/plutosvg_source/source/plutosvg.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DIMGUI_DISABLE_STB_IMAGE_WRITE_IMPLEMENTATION -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_STB_IMAGE_WRITE_FILENAME=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/external/stb_hello_imgui/stb_image_write.h\\\" -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC @CMakeFiles/imgui_test_engine.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -o CMakeFiles/imgui_test_engine.dir/__/__/__/__/imgui_test_engine/imgui_test_engine/imgui_test_engine/imgui_capture_tool.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/imgui_test_engine/imgui_test_engine/imgui_test_engine/imgui_capture_tool.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/imgui_test_engine/imgui_test_engine/imgui_test_engine/imgui_capture_tool.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/imgui_test_engine.dir/__/__/__/__/imgui_test_engine/imgui_test_engine/imgui_test_engine/imgui_capture_tool.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DIMGUI_DISABLE_STB_IMAGE_WRITE_IMPLEMENTATION -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_STB_IMAGE_WRITE_FILENAME=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/external/stb_hello_imgui/stb_image_write.h\\\" -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC @CMakeFiles/imgui_test_engine.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -o CMakeFiles/imgui_test_engine.dir/__/__/__/__/imgui_test_engine/imgui_test_engine/imgui_test_engine/imgui_te_context.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/imgui_test_engine/imgui_test_engine/imgui_test_engine/imgui_te_context.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/imgui_test_engine/imgui_test_engine/imgui_test_engine/imgui_te_context.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/imgui_test_engine.dir/__/__/__/__/imgui_test_engine/imgui_test_engine/imgui_test_engine/imgui_te_context.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DIMGUI_DISABLE_STB_IMAGE_WRITE_IMPLEMENTATION -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_STB_IMAGE_WRITE_FILENAME=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/external/stb_hello_imgui/stb_image_write.h\\\" -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC @CMakeFiles/imgui_test_engine.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -o CMakeFiles/imgui_test_engine.dir/__/__/__/__/imgui_test_engine/imgui_test_engine/imgui_test_engine/imgui_te_coroutine.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/imgui_test_engine/imgui_test_engine/imgui_test_engine/imgui_te_coroutine.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/imgui_test_engine/imgui_test_engine/imgui_test_engine/imgui_te_coroutine.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/imgui_test_engine.dir/__/__/__/__/imgui_test_engine/imgui_test_engine/imgui_test_engine/imgui_te_coroutine.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DIMGUI_DISABLE_STB_IMAGE_WRITE_IMPLEMENTATION -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_STB_IMAGE_WRITE_FILENAME=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/external/stb_hello_imgui/stb_image_write.h\\\" -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC @CMakeFiles/imgui_test_engine.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -o CMakeFiles/imgui_test_engine.dir/__/__/__/__/imgui_test_engine/imgui_test_engine/imgui_test_engine/imgui_te_engine.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/imgui_test_engine/imgui_test_engine/imgui_test_engine/imgui_te_engine.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/imgui_test_engine/imgui_test_engine/imgui_test_engine/imgui_te_engine.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/imgui_test_engine.dir/__/__/__/__/imgui_test_engine/imgui_test_engine/imgui_test_engine/imgui_te_engine.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DIMGUI_DISABLE_STB_IMAGE_WRITE_IMPLEMENTATION -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_STB_IMAGE_WRITE_FILENAME=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/external/stb_hello_imgui/stb_image_write.h\\\" -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC @CMakeFiles/imgui_test_engine.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -o CMakeFiles/imgui_test_engine.dir/__/__/__/__/imgui_test_engine/imgui_test_engine/imgui_test_engine/imgui_te_exporters.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/imgui_test_engine/imgui_test_engine/imgui_test_engine/imgui_te_exporters.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/imgui_test_engine/imgui_test_engine/imgui_test_engine/imgui_te_exporters.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/imgui_test_engine.dir/__/__/__/__/imgui_test_engine/imgui_test_engine/imgui_test_engine/imgui_te_exporters.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DIMGUI_DISABLE_STB_IMAGE_WRITE_IMPLEMENTATION -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_STB_IMAGE_WRITE_FILENAME=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/external/stb_hello_imgui/stb_image_write.h\\\" -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC @CMakeFiles/imgui_test_engine.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -o CMakeFiles/imgui_test_engine.dir/__/__/__/__/imgui_test_engine/imgui_test_engine/imgui_test_engine/imgui_te_perftool.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/imgui_test_engine/imgui_test_engine/imgui_test_engine/imgui_te_perftool.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/imgui_test_engine/imgui_test_engine/imgui_test_engine/imgui_te_perftool.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/imgui_test_engine.dir/__/__/__/__/imgui_test_engine/imgui_test_engine/imgui_test_engine/imgui_te_perftool.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DIMGUI_DISABLE_STB_IMAGE_WRITE_IMPLEMENTATION -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_STB_IMAGE_WRITE_FILENAME=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/external/stb_hello_imgui/stb_image_write.h\\\" -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC @CMakeFiles/imgui_test_engine.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -o CMakeFiles/imgui_test_engine.dir/__/__/__/__/imgui_test_engine/imgui_test_engine/imgui_test_engine/imgui_te_python_gil.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/imgui_test_engine/imgui_test_engine/imgui_test_engine/imgui_te_python_gil.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/imgui_test_engine/imgui_test_engine/imgui_test_engine/imgui_te_python_gil.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/imgui_test_engine.dir/__/__/__/__/imgui_test_engine/imgui_test_engine/imgui_test_engine/imgui_te_python_gil.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DIMGUI_DISABLE_STB_IMAGE_WRITE_IMPLEMENTATION -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_STB_IMAGE_WRITE_FILENAME=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/external/stb_hello_imgui/stb_image_write.h\\\" -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC @CMakeFiles/imgui_test_engine.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -o CMakeFiles/imgui_test_engine.dir/__/__/__/__/imgui_test_engine/imgui_test_engine/imgui_test_engine/imgui_te_ui.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/imgui_test_engine/imgui_test_engine/imgui_test_engine/imgui_te_ui.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/imgui_test_engine/imgui_test_engine/imgui_test_engine/imgui_te_ui.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/imgui_test_engine.dir/__/__/__/__/imgui_test_engine/imgui_test_engine/imgui_test_engine/imgui_te_ui.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DIMGUI_DISABLE_STB_IMAGE_WRITE_IMPLEMENTATION -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_STB_IMAGE_WRITE_FILENAME=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/external/stb_hello_imgui/stb_image_write.h\\\" -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC @CMakeFiles/imgui_test_engine.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -o CMakeFiles/imgui_test_engine.dir/__/__/__/__/imgui_test_engine/imgui_test_engine/imgui_test_engine/imgui_te_utils.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/imgui_test_engine/imgui_test_engine/imgui_test_engine/imgui_te_utils.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/imgui_test_engine/imgui_test_engine/imgui_test_engine/imgui_te_utils.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/imgui_test_engine.dir/__/__/__/__/imgui_test_engine/imgui_test_engine/imgui_test_engine/imgui_te_utils.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DSTB_IMAGE_IMPLEMENTATION -DSTB_IMAGE_WRITE_IMPLEMENTATION @CMakeFiles/stb_hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -o CMakeFiles/stb_hello_imgui.dir/__/__/external/stb_hello_imgui/stb_impl_hello_imgui.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/external/stb_hello_imgui/stb_impl_hello_imgui.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/external/stb_hello_imgui/stb_impl_hello_imgui.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/stb_hello_imgui.dir/__/__/external/stb_hello_imgui/stb_impl_hello_imgui.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/impl/dpi_aware.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/impl/dpi_aware.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/impl/dpi_aware.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/impl/dpi_aware.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/impl/hello_imgui.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/impl/hello_imgui.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/impl/hello_imgui.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/impl/hello_imgui.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/impl/hello_imgui_font.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/impl/hello_imgui_font.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/impl/hello_imgui_font.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/impl/hello_imgui_font.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/impl/hello_imgui_screenshot.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/impl/hello_imgui_screenshot.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/impl/hello_imgui_screenshot.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/impl/hello_imgui_screenshot.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/impl/hello_imgui_theme.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/impl/hello_imgui_theme.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/impl/hello_imgui_theme.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/impl/hello_imgui_theme.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/impl/hello_imgui_widgets.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/impl/hello_imgui_widgets.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/impl/hello_imgui_widgets.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/impl/hello_imgui_widgets.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/impl/imgui_default_settings.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/impl/imgui_default_settings.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/impl/imgui_default_settings.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/impl/imgui_default_settings.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/impl/imgui_theme.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/impl/imgui_theme.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/impl/imgui_theme.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/impl/imgui_theme.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/impl/renderer_backend_options.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/impl/renderer_backend_options.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/impl/renderer_backend_options.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/impl/renderer_backend_options.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/impl/runner_callbacks.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/impl/runner_callbacks.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/impl/runner_callbacks.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/impl/runner_callbacks.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/impl/runner_params.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/impl/runner_params.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/impl/runner_params.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/impl/runner_params.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/impl/screen_bounds.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/impl/screen_bounds.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/impl/screen_bounds.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/impl/screen_bounds.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/backend_impls/abstract_runner.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/abstract_runner.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/abstract_runner.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/backend_impls/abstract_runner.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/backend_impls/backend_window_helper/backend_window_helper.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/backend_window_helper/backend_window_helper.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/backend_window_helper/backend_window_helper.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/backend_impls/backend_window_helper/backend_window_helper.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/backend_impls/backend_window_helper/glfw_window_helper.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/backend_window_helper/glfw_window_helper.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/backend_window_helper/glfw_window_helper.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/backend_impls/backend_window_helper/glfw_window_helper.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/backend_impls/backend_window_helper/sdl_window_helper.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/backend_window_helper/sdl_window_helper.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/backend_window_helper/sdl_window_helper.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/backend_impls/backend_window_helper/sdl_window_helper.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/backend_impls/backend_window_helper/win32_dpi_awareness.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/backend_window_helper/win32_dpi_awareness.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/backend_window_helper/win32_dpi_awareness.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/backend_impls/backend_window_helper/win32_dpi_awareness.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/backend_impls/backend_window_helper/window_geometry_helper.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/backend_window_helper/window_geometry_helper.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/backend_window_helper/window_geometry_helper.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/backend_impls/backend_window_helper/window_geometry_helper.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/backend_impls/deprecated/runner_qt.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/deprecated/runner_qt.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/deprecated/runner_qt.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/backend_impls/deprecated/runner_qt.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/backend_impls/opengl_setup_helper/opengl_screenshot.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/opengl_setup_helper/opengl_screenshot.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/opengl_setup_helper/opengl_screenshot.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/backend_impls/opengl_setup_helper/opengl_screenshot.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/backend_impls/opengl_setup_helper/opengl_setup_api.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/opengl_setup_helper/opengl_setup_api.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/opengl_setup_helper/opengl_setup_api.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/backend_impls/opengl_setup_helper/opengl_setup_api.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/backend_impls/opengl_setup_helper/opengl_setup_glfw.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/opengl_setup_helper/opengl_setup_glfw.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/opengl_setup_helper/opengl_setup_glfw.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/backend_impls/opengl_setup_helper/opengl_setup_glfw.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/backend_impls/opengl_setup_helper/opengl_setup_sdl.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/opengl_setup_helper/opengl_setup_sdl.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/opengl_setup_helper/opengl_setup_sdl.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/backend_impls/opengl_setup_helper/opengl_setup_sdl.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/backend_impls/remote_display_handler.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/remote_display_handler.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/remote_display_handler.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/backend_impls/remote_display_handler.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/backend_impls/rendering_callbacks.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/rendering_callbacks.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/rendering_callbacks.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/backend_impls/rendering_callbacks.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/backend_impls/rendering_dx11.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/rendering_dx11.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/rendering_dx11.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/backend_impls/rendering_dx11.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/backend_impls/rendering_dx11_glfw.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/rendering_dx11_glfw.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/rendering_dx11_glfw.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/backend_impls/rendering_dx11_glfw.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/backend_impls/rendering_dx11_sdl.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/rendering_dx11_sdl.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/rendering_dx11_sdl.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/backend_impls/rendering_dx11_sdl.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/backend_impls/rendering_dx12.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/rendering_dx12.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/rendering_dx12.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/backend_impls/rendering_dx12.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/backend_impls/rendering_dx12_sdl.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/rendering_dx12_sdl.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/rendering_dx12_sdl.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/backend_impls/rendering_dx12_sdl.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/backend_impls/rendering_null.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/rendering_null.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/rendering_null.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/backend_impls/rendering_null.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/backend_impls/rendering_opengl3.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/rendering_opengl3.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/rendering_opengl3.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/backend_impls/rendering_opengl3.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/backend_impls/rendering_vulkan.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/rendering_vulkan.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/rendering_vulkan.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/backend_impls/rendering_vulkan.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/backend_impls/rendering_vulkan_glfw.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/rendering_vulkan_glfw.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/rendering_vulkan_glfw.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/backend_impls/rendering_vulkan_glfw.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/backend_impls/rendering_vulkan_sdl.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/rendering_vulkan_sdl.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/rendering_vulkan_sdl.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/backend_impls/rendering_vulkan_sdl.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/backend_impls/rendering_vulkan_setup.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/rendering_vulkan_setup.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/rendering_vulkan_setup.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/backend_impls/rendering_vulkan_setup.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/backend_impls/runner_factory.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/runner_factory.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/runner_factory.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/backend_impls/runner_factory.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/backend_impls/runner_glfw3.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/runner_glfw3.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/runner_glfw3.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/backend_impls/runner_glfw3.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/backend_impls/runner_glfw3_emscripten.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/runner_glfw3_emscripten.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/runner_glfw3_emscripten.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/backend_impls/runner_glfw3_emscripten.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/backend_impls/runner_sdl2.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/runner_sdl2.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/runner_sdl2.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/backend_impls/runner_sdl2.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/backend_impls/runner_sdl_emscripten.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/runner_sdl_emscripten.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/backend_impls/runner_sdl_emscripten.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/backend_impls/runner_sdl_emscripten.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/borderless_movable.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/borderless_movable.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/borderless_movable.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/borderless_movable.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/clock_seconds.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/clock_seconds.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/clock_seconds.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/clock_seconds.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/docking_details.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/docking_details.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/docking_details.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/docking_details.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/functional_utils.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/functional_utils.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/functional_utils.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/functional_utils.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/hello_imgui_assets.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/hello_imgui_assets.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/hello_imgui_assets.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/hello_imgui_assets.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/hello_imgui_ini_any_parent_folder.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/hello_imgui_ini_any_parent_folder.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/hello_imgui_ini_any_parent_folder.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/hello_imgui_ini_any_parent_folder.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/hello_imgui_ini_settings.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/hello_imgui_ini_settings.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/hello_imgui_ini_settings.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/hello_imgui_ini_settings.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/hello_imgui_logger.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/hello_imgui_logger.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/hello_imgui_logger.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/hello_imgui_logger.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/image_abstract.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/image_abstract.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/image_abstract.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/image_abstract.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/image_dx11.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/image_dx11.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/image_dx11.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/image_dx11.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/image_from_asset.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/image_from_asset.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/image_from_asset.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/image_from_asset.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/image_opengl.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/image_opengl.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/image_opengl.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/image_opengl.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/image_vulkan.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/image_vulkan.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/image_vulkan.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/image_vulkan.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/imgui_global_context.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/imgui_global_context.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/imgui_global_context.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/imgui_global_context.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/imguial_term.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/imguial_term.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/imguial_term.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/imguial_term.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/menu_statusbar.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/menu_statusbar.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/menu_statusbar.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/menu_statusbar.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/platform/ini_folder_locations.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/platform/ini_folder_locations.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/platform/ini_folder_locations.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/platform/ini_folder_locations.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/poor_man_log.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/poor_man_log.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/poor_man_log.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/poor_man_log.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_C.rsp -O3 -DNDEBUG -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/whereami/whereami.c.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/whereami/whereami.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/whereami/whereami.c",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/whereami/whereami.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/internal/whereami/whereami_cpp.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/whereami/whereami_cpp.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/internal/whereami/whereami_cpp.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/internal/whereami/whereami_cpp.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/widgets/logger.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/widgets/logger.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/widgets/logger.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/widgets/logger.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/__/hello_imgui_test_engine_integration/test_engine_integration.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui_test_engine_integration/test_engine_integration.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui_test_engine_integration/test_engine_integration.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/__/hello_imgui_test_engine_integration/test_engine_integration.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/__/__/__/__/imgui/imgui/backends/imgui_impl_sdl2.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/imgui/imgui/backends/imgui_impl_sdl2.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/imgui/imgui/backends/imgui_impl_sdl2.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/__/__/__/__/imgui/imgui/backends/imgui_impl_sdl2.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui",
+  "command": "/home/joaco/emsdk/upstream/emscripten/em++ -DEMSCRIPTEN -DHELLOIMGUI_CANNOTQUIT -DHELLOIMGUI_HAS_OPENGL -DHELLOIMGUI_HAS_OPENGL3 -DHELLOIMGUI_USE_GLES3 -DHELLOIMGUI_USE_SDL -DHELLOIMGUI_USE_SDL2 -DHELLOIMGUI_WITH_TEST_ENGINE -DIMGUI_ENABLE_FREETYPE -DIMGUI_ENABLE_FREETYPE_PLUTOSVG -DIMGUI_ENABLE_TEST_ENGINE -DIMGUI_IMPL_OPENGL_ES3 -DIMGUI_TEST_ENGINE_ENABLE_CAPTURE=1 -DIMGUI_TEST_ENGINE_ENABLE_COROUTINE_STDTHREAD_IMPL=1 -DIMGUI_TEST_ENGINE_ENABLE_STD_FUNCTION=1 -DIMGUI_USER_CONFIG=\\\"/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/imgui_bundle_cmake/imgui_bundle_config.h\\\" -DIMGUI_USE_WCHAR32 -DPLUTOSVG_BUILD_STATIC -DPLUTOSVG_HAS_FREETYPE -DPLUTOVG_BUILD_STATIC -D_THREAD_SAFE @CMakeFiles/hello_imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -fPIC -s USE_SDL=2 -o CMakeFiles/hello_imgui.dir/__/__/__/__/imgui/imgui/backends/imgui_impl_opengl3.cpp.o -c /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/imgui/imgui/backends/imgui_impl_opengl3.cpp",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/imgui/imgui/backends/imgui_impl_opengl3.cpp",
+  "output": "external/imgui_bundle/external/hello_imgui/hello_imgui/src/hello_imgui/CMakeFiles/hello_imgui.dir/__/__/__/__/imgui/imgui/backends/imgui_impl_opengl3.cpp.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DFT2_BUILD_LIBRARY @CMakeFiles/freetype.dir/includes_C.rsp -O3 -DNDEBUG -fvisibility=hidden -fPIC -o CMakeFiles/freetype.dir/src/autofit/autofit.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/autofit/autofit.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/autofit/autofit.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/autofit/autofit.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DFT2_BUILD_LIBRARY @CMakeFiles/freetype.dir/includes_C.rsp -O3 -DNDEBUG -fvisibility=hidden -fPIC -o CMakeFiles/freetype.dir/src/base/ftbase.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/base/ftbase.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/base/ftbase.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/base/ftbase.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DFT2_BUILD_LIBRARY @CMakeFiles/freetype.dir/includes_C.rsp -O3 -DNDEBUG -fvisibility=hidden -fPIC -o CMakeFiles/freetype.dir/src/base/ftbbox.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/base/ftbbox.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/base/ftbbox.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/base/ftbbox.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DFT2_BUILD_LIBRARY @CMakeFiles/freetype.dir/includes_C.rsp -O3 -DNDEBUG -fvisibility=hidden -fPIC -o CMakeFiles/freetype.dir/src/base/ftbdf.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/base/ftbdf.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/base/ftbdf.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/base/ftbdf.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DFT2_BUILD_LIBRARY @CMakeFiles/freetype.dir/includes_C.rsp -O3 -DNDEBUG -fvisibility=hidden -fPIC -o CMakeFiles/freetype.dir/src/base/ftbitmap.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/base/ftbitmap.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/base/ftbitmap.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/base/ftbitmap.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DFT2_BUILD_LIBRARY @CMakeFiles/freetype.dir/includes_C.rsp -O3 -DNDEBUG -fvisibility=hidden -fPIC -o CMakeFiles/freetype.dir/src/base/ftcid.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/base/ftcid.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/base/ftcid.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/base/ftcid.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DFT2_BUILD_LIBRARY @CMakeFiles/freetype.dir/includes_C.rsp -O3 -DNDEBUG -fvisibility=hidden -fPIC -o CMakeFiles/freetype.dir/src/base/ftfstype.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/base/ftfstype.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/base/ftfstype.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/base/ftfstype.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DFT2_BUILD_LIBRARY @CMakeFiles/freetype.dir/includes_C.rsp -O3 -DNDEBUG -fvisibility=hidden -fPIC -o CMakeFiles/freetype.dir/src/base/ftgasp.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/base/ftgasp.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/base/ftgasp.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/base/ftgasp.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DFT2_BUILD_LIBRARY @CMakeFiles/freetype.dir/includes_C.rsp -O3 -DNDEBUG -fvisibility=hidden -fPIC -o CMakeFiles/freetype.dir/src/base/ftglyph.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/base/ftglyph.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/base/ftglyph.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/base/ftglyph.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DFT2_BUILD_LIBRARY @CMakeFiles/freetype.dir/includes_C.rsp -O3 -DNDEBUG -fvisibility=hidden -fPIC -o CMakeFiles/freetype.dir/src/base/ftgxval.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/base/ftgxval.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/base/ftgxval.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/base/ftgxval.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DFT2_BUILD_LIBRARY @CMakeFiles/freetype.dir/includes_C.rsp -O3 -DNDEBUG -fvisibility=hidden -fPIC -o CMakeFiles/freetype.dir/src/base/ftinit.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/base/ftinit.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/base/ftinit.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/base/ftinit.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DFT2_BUILD_LIBRARY @CMakeFiles/freetype.dir/includes_C.rsp -O3 -DNDEBUG -fvisibility=hidden -fPIC -o CMakeFiles/freetype.dir/src/base/ftmm.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/base/ftmm.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/base/ftmm.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/base/ftmm.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DFT2_BUILD_LIBRARY @CMakeFiles/freetype.dir/includes_C.rsp -O3 -DNDEBUG -fvisibility=hidden -fPIC -o CMakeFiles/freetype.dir/src/base/ftotval.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/base/ftotval.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/base/ftotval.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/base/ftotval.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DFT2_BUILD_LIBRARY @CMakeFiles/freetype.dir/includes_C.rsp -O3 -DNDEBUG -fvisibility=hidden -fPIC -o CMakeFiles/freetype.dir/src/base/ftpatent.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/base/ftpatent.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/base/ftpatent.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/base/ftpatent.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DFT2_BUILD_LIBRARY @CMakeFiles/freetype.dir/includes_C.rsp -O3 -DNDEBUG -fvisibility=hidden -fPIC -o CMakeFiles/freetype.dir/src/base/ftpfr.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/base/ftpfr.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/base/ftpfr.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/base/ftpfr.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DFT2_BUILD_LIBRARY @CMakeFiles/freetype.dir/includes_C.rsp -O3 -DNDEBUG -fvisibility=hidden -fPIC -o CMakeFiles/freetype.dir/src/base/ftstroke.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/base/ftstroke.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/base/ftstroke.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/base/ftstroke.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DFT2_BUILD_LIBRARY @CMakeFiles/freetype.dir/includes_C.rsp -O3 -DNDEBUG -fvisibility=hidden -fPIC -o CMakeFiles/freetype.dir/src/base/ftsynth.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/base/ftsynth.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/base/ftsynth.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/base/ftsynth.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DFT2_BUILD_LIBRARY @CMakeFiles/freetype.dir/includes_C.rsp -O3 -DNDEBUG -fvisibility=hidden -fPIC -o CMakeFiles/freetype.dir/src/base/fttype1.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/base/fttype1.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/base/fttype1.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/base/fttype1.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DFT2_BUILD_LIBRARY @CMakeFiles/freetype.dir/includes_C.rsp -O3 -DNDEBUG -fvisibility=hidden -fPIC -o CMakeFiles/freetype.dir/src/base/ftwinfnt.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/base/ftwinfnt.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/base/ftwinfnt.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/base/ftwinfnt.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DFT2_BUILD_LIBRARY @CMakeFiles/freetype.dir/includes_C.rsp -O3 -DNDEBUG -fvisibility=hidden -fPIC -o CMakeFiles/freetype.dir/src/bdf/bdf.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/bdf/bdf.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/bdf/bdf.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/bdf/bdf.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DFT2_BUILD_LIBRARY @CMakeFiles/freetype.dir/includes_C.rsp -O3 -DNDEBUG -fvisibility=hidden -fPIC -o CMakeFiles/freetype.dir/src/bzip2/ftbzip2.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/bzip2/ftbzip2.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/bzip2/ftbzip2.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/bzip2/ftbzip2.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DFT2_BUILD_LIBRARY @CMakeFiles/freetype.dir/includes_C.rsp -O3 -DNDEBUG -fvisibility=hidden -fPIC -o CMakeFiles/freetype.dir/src/cache/ftcache.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/cache/ftcache.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/cache/ftcache.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/cache/ftcache.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DFT2_BUILD_LIBRARY @CMakeFiles/freetype.dir/includes_C.rsp -O3 -DNDEBUG -fvisibility=hidden -fPIC -o CMakeFiles/freetype.dir/src/cff/cff.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/cff/cff.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/cff/cff.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/cff/cff.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DFT2_BUILD_LIBRARY @CMakeFiles/freetype.dir/includes_C.rsp -O3 -DNDEBUG -fvisibility=hidden -fPIC -o CMakeFiles/freetype.dir/src/cid/type1cid.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/cid/type1cid.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/cid/type1cid.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/cid/type1cid.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DFT2_BUILD_LIBRARY @CMakeFiles/freetype.dir/includes_C.rsp -O3 -DNDEBUG -fvisibility=hidden -fPIC -o CMakeFiles/freetype.dir/src/gzip/ftgzip.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/gzip/ftgzip.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/gzip/ftgzip.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/gzip/ftgzip.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DFT2_BUILD_LIBRARY @CMakeFiles/freetype.dir/includes_C.rsp -O3 -DNDEBUG -fvisibility=hidden -fPIC -o CMakeFiles/freetype.dir/src/lzw/ftlzw.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/lzw/ftlzw.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/lzw/ftlzw.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/lzw/ftlzw.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DFT2_BUILD_LIBRARY @CMakeFiles/freetype.dir/includes_C.rsp -O3 -DNDEBUG -fvisibility=hidden -fPIC -o CMakeFiles/freetype.dir/src/pcf/pcf.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/pcf/pcf.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/pcf/pcf.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/pcf/pcf.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DFT2_BUILD_LIBRARY @CMakeFiles/freetype.dir/includes_C.rsp -O3 -DNDEBUG -fvisibility=hidden -fPIC -o CMakeFiles/freetype.dir/src/pfr/pfr.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/pfr/pfr.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/pfr/pfr.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/pfr/pfr.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DFT2_BUILD_LIBRARY @CMakeFiles/freetype.dir/includes_C.rsp -O3 -DNDEBUG -fvisibility=hidden -fPIC -o CMakeFiles/freetype.dir/src/psaux/psaux.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/psaux/psaux.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/psaux/psaux.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/psaux/psaux.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DFT2_BUILD_LIBRARY @CMakeFiles/freetype.dir/includes_C.rsp -O3 -DNDEBUG -fvisibility=hidden -fPIC -o CMakeFiles/freetype.dir/src/pshinter/pshinter.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/pshinter/pshinter.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/pshinter/pshinter.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/pshinter/pshinter.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DFT2_BUILD_LIBRARY @CMakeFiles/freetype.dir/includes_C.rsp -O3 -DNDEBUG -fvisibility=hidden -fPIC -o CMakeFiles/freetype.dir/src/psnames/psnames.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/psnames/psnames.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/psnames/psnames.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/psnames/psnames.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DFT2_BUILD_LIBRARY @CMakeFiles/freetype.dir/includes_C.rsp -O3 -DNDEBUG -fvisibility=hidden -fPIC -o CMakeFiles/freetype.dir/src/raster/raster.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/raster/raster.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/raster/raster.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/raster/raster.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DFT2_BUILD_LIBRARY @CMakeFiles/freetype.dir/includes_C.rsp -O3 -DNDEBUG -fvisibility=hidden -fPIC -o CMakeFiles/freetype.dir/src/sdf/sdf.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/sdf/sdf.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/sdf/sdf.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/sdf/sdf.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DFT2_BUILD_LIBRARY @CMakeFiles/freetype.dir/includes_C.rsp -O3 -DNDEBUG -fvisibility=hidden -fPIC -o CMakeFiles/freetype.dir/src/sfnt/sfnt.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/sfnt/sfnt.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/sfnt/sfnt.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/sfnt/sfnt.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DFT2_BUILD_LIBRARY @CMakeFiles/freetype.dir/includes_C.rsp -O3 -DNDEBUG -fvisibility=hidden -fPIC -o CMakeFiles/freetype.dir/src/smooth/smooth.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/smooth/smooth.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/smooth/smooth.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/smooth/smooth.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DFT2_BUILD_LIBRARY @CMakeFiles/freetype.dir/includes_C.rsp -O3 -DNDEBUG -fvisibility=hidden -fPIC -o CMakeFiles/freetype.dir/src/svg/svg.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/svg/svg.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/svg/svg.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/svg/svg.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DFT2_BUILD_LIBRARY @CMakeFiles/freetype.dir/includes_C.rsp -O3 -DNDEBUG -fvisibility=hidden -fPIC -o CMakeFiles/freetype.dir/src/truetype/truetype.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/truetype/truetype.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/truetype/truetype.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/truetype/truetype.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DFT2_BUILD_LIBRARY @CMakeFiles/freetype.dir/includes_C.rsp -O3 -DNDEBUG -fvisibility=hidden -fPIC -o CMakeFiles/freetype.dir/src/type1/type1.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/type1/type1.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/type1/type1.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/type1/type1.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DFT2_BUILD_LIBRARY @CMakeFiles/freetype.dir/includes_C.rsp -O3 -DNDEBUG -fvisibility=hidden -fPIC -o CMakeFiles/freetype.dir/src/type42/type42.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/type42/type42.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/type42/type42.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/type42/type42.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DFT2_BUILD_LIBRARY @CMakeFiles/freetype.dir/includes_C.rsp -O3 -DNDEBUG -fvisibility=hidden -fPIC -o CMakeFiles/freetype.dir/src/winfonts/winfnt.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/winfonts/winfnt.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/winfonts/winfnt.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/winfonts/winfnt.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DFT2_BUILD_LIBRARY @CMakeFiles/freetype.dir/includes_C.rsp -O3 -DNDEBUG -fvisibility=hidden -fPIC -o CMakeFiles/freetype.dir/builds/unix/ftsystem.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/builds/unix/ftsystem.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/builds/unix/ftsystem.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/builds/unix/ftsystem.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DFT2_BUILD_LIBRARY @CMakeFiles/freetype.dir/includes_C.rsp -O3 -DNDEBUG -fvisibility=hidden -fPIC -o CMakeFiles/freetype.dir/src/base/ftdebug.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/base/ftdebug.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/src/base/ftdebug.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/base/ftdebug.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DPLUTOVG_BUILD -DPLUTOVG_BUILD_STATIC @CMakeFiles/plutovg.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -fPIC -o CMakeFiles/plutovg.dir/source/plutovg-blend.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-src/source/plutovg-blend.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-src/source/plutovg-blend.c",
+  "output": "_deps/plutovg-build/CMakeFiles/plutovg.dir/source/plutovg-blend.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DPLUTOVG_BUILD -DPLUTOVG_BUILD_STATIC @CMakeFiles/plutovg.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -fPIC -o CMakeFiles/plutovg.dir/source/plutovg-canvas.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-src/source/plutovg-canvas.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-src/source/plutovg-canvas.c",
+  "output": "_deps/plutovg-build/CMakeFiles/plutovg.dir/source/plutovg-canvas.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DPLUTOVG_BUILD -DPLUTOVG_BUILD_STATIC @CMakeFiles/plutovg.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -fPIC -o CMakeFiles/plutovg.dir/source/plutovg-font.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-src/source/plutovg-font.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-src/source/plutovg-font.c",
+  "output": "_deps/plutovg-build/CMakeFiles/plutovg.dir/source/plutovg-font.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DPLUTOVG_BUILD -DPLUTOVG_BUILD_STATIC @CMakeFiles/plutovg.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -fPIC -o CMakeFiles/plutovg.dir/source/plutovg-matrix.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-src/source/plutovg-matrix.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-src/source/plutovg-matrix.c",
+  "output": "_deps/plutovg-build/CMakeFiles/plutovg.dir/source/plutovg-matrix.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DPLUTOVG_BUILD -DPLUTOVG_BUILD_STATIC @CMakeFiles/plutovg.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -fPIC -o CMakeFiles/plutovg.dir/source/plutovg-paint.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-src/source/plutovg-paint.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-src/source/plutovg-paint.c",
+  "output": "_deps/plutovg-build/CMakeFiles/plutovg.dir/source/plutovg-paint.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DPLUTOVG_BUILD -DPLUTOVG_BUILD_STATIC @CMakeFiles/plutovg.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -fPIC -o CMakeFiles/plutovg.dir/source/plutovg-path.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-src/source/plutovg-path.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-src/source/plutovg-path.c",
+  "output": "_deps/plutovg-build/CMakeFiles/plutovg.dir/source/plutovg-path.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DPLUTOVG_BUILD -DPLUTOVG_BUILD_STATIC @CMakeFiles/plutovg.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -fPIC -o CMakeFiles/plutovg.dir/source/plutovg-rasterize.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-src/source/plutovg-rasterize.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-src/source/plutovg-rasterize.c",
+  "output": "_deps/plutovg-build/CMakeFiles/plutovg.dir/source/plutovg-rasterize.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DPLUTOVG_BUILD -DPLUTOVG_BUILD_STATIC @CMakeFiles/plutovg.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -fPIC -o CMakeFiles/plutovg.dir/source/plutovg-surface.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-src/source/plutovg-surface.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-src/source/plutovg-surface.c",
+  "output": "_deps/plutovg-build/CMakeFiles/plutovg.dir/source/plutovg-surface.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DPLUTOVG_BUILD -DPLUTOVG_BUILD_STATIC @CMakeFiles/plutovg.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -fPIC -o CMakeFiles/plutovg.dir/source/plutovg-ft-math.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-src/source/plutovg-ft-math.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-src/source/plutovg-ft-math.c",
+  "output": "_deps/plutovg-build/CMakeFiles/plutovg.dir/source/plutovg-ft-math.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DPLUTOVG_BUILD -DPLUTOVG_BUILD_STATIC @CMakeFiles/plutovg.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -fPIC -o CMakeFiles/plutovg.dir/source/plutovg-ft-raster.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-src/source/plutovg-ft-raster.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-src/source/plutovg-ft-raster.c",
+  "output": "_deps/plutovg-build/CMakeFiles/plutovg.dir/source/plutovg-ft-raster.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-build",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DPLUTOVG_BUILD -DPLUTOVG_BUILD_STATIC @CMakeFiles/plutovg.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -fPIC -o CMakeFiles/plutovg.dir/source/plutovg-ft-stroker.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-src/source/plutovg-ft-stroker.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-src/source/plutovg-ft-stroker.c",
+  "output": "_deps/plutovg-build/CMakeFiles/plutovg.dir/source/plutovg-ft-stroker.c.o"
+},
+{
+  "directory": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-build/examples",
+  "command": "/home/joaco/emsdk/upstream/emscripten/emcc -DEMSCRIPTEN -DPLUTOVG_BUILD_STATIC @CMakeFiles/smiley.dir/includes_C.rsp -O3 -DNDEBUG -fPIC -o CMakeFiles/smiley.dir/smiley.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-src/examples/smiley.c",
+  "file": "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-src/examples/smiley.c",
+  "output": "_deps/plutovg-build/examples/CMakeFiles/smiley.dir/smiley.c.o"
+}
+]

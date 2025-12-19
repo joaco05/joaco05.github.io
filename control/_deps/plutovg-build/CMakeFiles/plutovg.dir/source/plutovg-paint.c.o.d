@@ -1,0 +1,34 @@
+_deps/plutovg-build/CMakeFiles/plutovg.dir/source/plutovg-paint.c.o: \
+  /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-src/source/plutovg-paint.c \
+  /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-src/source/plutovg-private.h \
+  /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-src/include/plutovg.h \
+  /home/joaco/emsdk/upstream/lib/clang/22/include/stdbool.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/stdbool.h \
+  /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-src/source/plutovg-utils.h \
+  /home/joaco/emsdk/upstream/lib/clang/22/include/stdint.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/stdint.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/bits/alltypes.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/bits/stdint.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/compat/stdlib.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/stdlib.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/features.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/alloca.h \
+  /home/joaco/emsdk/upstream/lib/clang/22/include/stddef.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/stddef.h \
+  /home/joaco/emsdk/upstream/lib/clang/22/include/__stddef_header_macro.h \
+  /home/joaco/emsdk/upstream/lib/clang/22/include/__stddef_ptrdiff_t.h \
+  /home/joaco/emsdk/upstream/lib/clang/22/include/__stddef_size_t.h \
+  /home/joaco/emsdk/upstream/lib/clang/22/include/__stddef_wchar_t.h \
+  /home/joaco/emsdk/upstream/lib/clang/22/include/__stddef_null.h \
+  /home/joaco/emsdk/upstream/lib/clang/22/include/__stddef_offsetof.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/compat/string.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/string.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/strings.h \
+  /home/joaco/emsdk/upstream/lib/clang/22/include/float.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/float.h \
+  /home/joaco/emsdk/upstream/lib/clang/22/include/__float_header_macro.h \
+  /home/joaco/emsdk/upstream/lib/clang/22/include/__float_float.h \
+  /home/joaco/emsdk/upstream/lib/clang/22/include/__float_infinity_nan.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/compat/math.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/math.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/ctype.h

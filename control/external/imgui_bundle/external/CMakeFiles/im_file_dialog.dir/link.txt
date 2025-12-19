@@ -1,0 +1,2 @@
+/home/joaco/emsdk/upstream/emscripten/emar qc libim_file_dialog.a CMakeFiles/im_file_dialog.dir/ImFileDialog/ImFileDialog/ImFileDialog.cpp.o CMakeFiles/im_file_dialog.dir/ImFileDialog/bundle_integration/ImFileDialogTextureHelper.cpp.o
+/home/joaco/emsdk/upstream/emscripten/emranlib libim_file_dialog.a

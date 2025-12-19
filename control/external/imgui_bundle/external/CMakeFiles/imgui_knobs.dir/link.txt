@@ -1,0 +1,2 @@
+/home/joaco/emsdk/upstream/emscripten/emar qc libimgui_knobs.a "CMakeFiles/imgui_knobs.dir/imgui-knobs/imgui-knobs/imgui-knobs.cpp.o"
+/home/joaco/emsdk/upstream/emscripten/emranlib libimgui_knobs.a

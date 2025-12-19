@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-subbuild/CMakeFiles/plutovg-populate"
+		},
+		{
+			"file" : "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-subbuild/CMakeFiles/plutovg-populate.rule"
+		},
+		{
+			"file" : "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-subbuild/CMakeFiles/plutovg-populate-complete.rule"
+		},
+		{
+			"file" : "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-subbuild/plutovg-populate-prefix/src/plutovg-populate-stamp/plutovg-populate-build.rule"
+		},
+		{
+			"file" : "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-subbuild/plutovg-populate-prefix/src/plutovg-populate-stamp/plutovg-populate-configure.rule"
+		},
+		{
+			"file" : "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-subbuild/plutovg-populate-prefix/src/plutovg-populate-stamp/plutovg-populate-download.rule"
+		},
+		{
+			"file" : "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-subbuild/plutovg-populate-prefix/src/plutovg-populate-stamp/plutovg-populate-install.rule"
+		},
+		{
+			"file" : "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-subbuild/plutovg-populate-prefix/src/plutovg-populate-stamp/plutovg-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-subbuild/plutovg-populate-prefix/src/plutovg-populate-stamp/plutovg-populate-patch.rule"
+		},
+		{
+			"file" : "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-subbuild/plutovg-populate-prefix/src/plutovg-populate-stamp/plutovg-populate-test.rule"
+		},
+		{
+			"file" : "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-subbuild/plutovg-populate-prefix/src/plutovg-populate-stamp/plutovg-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"plutovg-populate"
+		],
+		"name" : "plutovg-populate"
+	}
+}

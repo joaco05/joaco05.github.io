@@ -1,0 +1,2 @@
+/home/joaco/emsdk/upstream/emscripten/emar qc libimmapp.a CMakeFiles/immapp.dir/browse_to_url.cpp.o CMakeFiles/immapp.dir/clock.cpp.o CMakeFiles/immapp.dir/code_utils.cpp.o CMakeFiles/immapp.dir/immapp.cpp.o CMakeFiles/immapp.dir/immapp_widgets.cpp.o CMakeFiles/immapp.dir/js_clipboard_tricks.cpp.o CMakeFiles/immapp.dir/runner.cpp.o CMakeFiles/immapp.dir/snippets.cpp.o
+/home/joaco/emsdk/upstream/emscripten/emranlib libimmapp.a

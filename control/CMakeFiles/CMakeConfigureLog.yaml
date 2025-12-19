@@ -1,0 +1,77 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/usr/share/cmake-3.31/Modules/CMakeDetermineSystem.cmake:200 (message)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      The target system is: Emscripten - 1 - x86
+      The host system is: Linux - 6.12.57+deb13-amd64 - x86_64
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "/usr/share/cmake-3.31/Modules/CheckIncludeFile.cmake:99 (try_compile)"
+      - "build_emscripten/_deps/freetype-src/CMakeLists.txt:303 (check_include_file)"
+    checks:
+      - "Looking for unistd.h"
+    directories:
+      source: "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/CMakeFiles/CMakeScratch/TryCompile-68ud3G"
+      binary: "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/CMakeFiles/CMakeScratch/TryCompile-68ud3G"
+    cmakeVariables:
+      CMAKE_CXX_COMPILER_CLANG_SCAN_DEPS: "/home/joaco/emsdk/upstream/emscripten/emscan-deps"
+      CMAKE_C_FLAGS: ""
+      CMAKE_EXE_LINKER_FLAGS: ""
+      CMAKE_MODULE_PATH: "/home/joaco/emsdk/upstream/emscripten/cmake/Modules;/home/joaco/emsdk/upstream/emscripten/cmake/Modules;/home/joaco/emsdk/upstream/emscripten/cmake/Modules;/home/joaco/emsdk/upstream/emscripten/cmake/Modules;/home/joaco/emsdk/upstream/emscripten/cmake/Modules;/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/hello_imgui_cmake;/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/hello_imgui_cmake;/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/hello_imgui_cmake;/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/builds/cmake"
+    buildResult:
+      variable: "HAVE_UNISTD_H"
+      cached: true
+      stdout: |
+        Change Dir: '/home/joaco/Documentos/imgui_bundle_template/build_emscripten/CMakeFiles/CMakeScratch/TryCompile-68ud3G'
+        
+        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_05b54/fast
+        /usr/bin/gmake  -f CMakeFiles/cmTC_05b54.dir/build.make CMakeFiles/cmTC_05b54.dir/build
+        gmake[1]: se entra en el directorio '/home/joaco/Documentos/imgui_bundle_template/build_emscripten/CMakeFiles/CMakeScratch/TryCompile-68ud3G'
+        Building C object CMakeFiles/cmTC_05b54.dir/CheckIncludeFile.c.o
+        /home/joaco/emsdk/upstream/emscripten/emcc    -MD -MT CMakeFiles/cmTC_05b54.dir/CheckIncludeFile.c.o -MF CMakeFiles/cmTC_05b54.dir/CheckIncludeFile.c.o.d -o CMakeFiles/cmTC_05b54.dir/CheckIncludeFile.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/CMakeFiles/CMakeScratch/TryCompile-68ud3G/CheckIncludeFile.c
+        shared:INFO: (Emscripten: Running sanity checks)
+        Linking C executable cmTC_05b54.js
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_05b54.dir/link.txt --verbose=1
+        /home/joaco/emsdk/upstream/emscripten/emcc @CMakeFiles/cmTC_05b54.dir/objects1.rsp -o cmTC_05b54.js
+        gmake[1]: se sale del directorio '/home/joaco/Documentos/imgui_bundle_template/build_emscripten/CMakeFiles/CMakeScratch/TryCompile-68ud3G'
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "/usr/share/cmake-3.31/Modules/CheckIncludeFile.cmake:99 (try_compile)"
+      - "build_emscripten/_deps/freetype-src/CMakeLists.txt:304 (check_include_file)"
+    checks:
+      - "Looking for fcntl.h"
+    directories:
+      source: "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/CMakeFiles/CMakeScratch/TryCompile-AHfWR4"
+      binary: "/home/joaco/Documentos/imgui_bundle_template/build_emscripten/CMakeFiles/CMakeScratch/TryCompile-AHfWR4"
+    cmakeVariables:
+      CMAKE_CXX_COMPILER_CLANG_SCAN_DEPS: "/home/joaco/emsdk/upstream/emscripten/emscan-deps"
+      CMAKE_C_FLAGS: ""
+      CMAKE_EXE_LINKER_FLAGS: ""
+      CMAKE_MODULE_PATH: "/home/joaco/emsdk/upstream/emscripten/cmake/Modules;/home/joaco/emsdk/upstream/emscripten/cmake/Modules;/home/joaco/emsdk/upstream/emscripten/cmake/Modules;/home/joaco/emsdk/upstream/emscripten/cmake/Modules;/home/joaco/emsdk/upstream/emscripten/cmake/Modules;/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/hello_imgui_cmake;/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/hello_imgui_cmake;/home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/hello_imgui/hello_imgui/hello_imgui_cmake;/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/freetype-src/builds/cmake"
+    buildResult:
+      variable: "HAVE_FCNTL_H"
+      cached: true
+      stdout: |
+        Change Dir: '/home/joaco/Documentos/imgui_bundle_template/build_emscripten/CMakeFiles/CMakeScratch/TryCompile-AHfWR4'
+        
+        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_322ff/fast
+        /usr/bin/gmake  -f CMakeFiles/cmTC_322ff.dir/build.make CMakeFiles/cmTC_322ff.dir/build
+        gmake[1]: se entra en el directorio '/home/joaco/Documentos/imgui_bundle_template/build_emscripten/CMakeFiles/CMakeScratch/TryCompile-AHfWR4'
+        Building C object CMakeFiles/cmTC_322ff.dir/CheckIncludeFile.c.o
+        /home/joaco/emsdk/upstream/emscripten/emcc    -MD -MT CMakeFiles/cmTC_322ff.dir/CheckIncludeFile.c.o -MF CMakeFiles/cmTC_322ff.dir/CheckIncludeFile.c.o.d -o CMakeFiles/cmTC_322ff.dir/CheckIncludeFile.c.o -c /home/joaco/Documentos/imgui_bundle_template/build_emscripten/CMakeFiles/CMakeScratch/TryCompile-AHfWR4/CheckIncludeFile.c
+        Linking C executable cmTC_322ff.js
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_322ff.dir/link.txt --verbose=1
+        /home/joaco/emsdk/upstream/emscripten/emcc @CMakeFiles/cmTC_322ff.dir/objects1.rsp -o cmTC_322ff.js
+        gmake[1]: se sale del directorio '/home/joaco/Documentos/imgui_bundle_template/build_emscripten/CMakeFiles/CMakeScratch/TryCompile-AHfWR4'
+        
+      exitCode: 0
+...

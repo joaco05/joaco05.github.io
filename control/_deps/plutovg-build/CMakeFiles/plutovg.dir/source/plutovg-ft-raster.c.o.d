@@ -1,0 +1,23 @@
+_deps/plutovg-build/CMakeFiles/plutovg.dir/source/plutovg-ft-raster.c.o: \
+  /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-src/source/plutovg-ft-raster.c \
+  /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-src/source/plutovg-ft-raster.h \
+  /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-src/source/plutovg-ft-types.h \
+  /home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-src/source/plutovg-ft-math.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/setjmp.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/features.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/bits/setjmp.h \
+  /home/joaco/emsdk/upstream/lib/clang/22/include/stddef.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/stddef.h \
+  /home/joaco/emsdk/upstream/lib/clang/22/include/__stddef_header_macro.h \
+  /home/joaco/emsdk/upstream/lib/clang/22/include/__stddef_ptrdiff_t.h \
+  /home/joaco/emsdk/upstream/lib/clang/22/include/__stddef_size_t.h \
+  /home/joaco/emsdk/upstream/lib/clang/22/include/__stddef_wchar_t.h \
+  /home/joaco/emsdk/upstream/lib/clang/22/include/__stddef_null.h \
+  /home/joaco/emsdk/upstream/lib/clang/22/include/__stddef_offsetof.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/compat/stdlib.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/stdlib.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/bits/alltypes.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/alloca.h \
+  /home/joaco/emsdk/upstream/lib/clang/22/include/limits.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/limits.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/bits/limits.h

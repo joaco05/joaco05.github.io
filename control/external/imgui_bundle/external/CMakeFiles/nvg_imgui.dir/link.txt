@@ -1,0 +1,2 @@
+/home/joaco/emsdk/upstream/emscripten/emar qc libnvg_imgui.a CMakeFiles/nvg_imgui.dir/nanovg/nvg_imgui/nvg_cpp_text.cpp.o CMakeFiles/nvg_imgui.dir/nanovg/nvg_imgui/nvg_imgui.cpp.o
+/home/joaco/emsdk/upstream/emscripten/emranlib libnvg_imgui.a

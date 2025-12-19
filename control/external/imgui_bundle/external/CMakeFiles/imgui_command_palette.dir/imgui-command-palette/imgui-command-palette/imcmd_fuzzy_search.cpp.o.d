@@ -1,0 +1,26 @@
+external/imgui_bundle/external/CMakeFiles/imgui_command_palette.dir/imgui-command-palette/imgui-command-palette/imcmd_fuzzy_search.cpp.o: \
+  /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/imgui-command-palette/imgui-command-palette/imcmd_fuzzy_search.cpp \
+  /home/joaco/Documentos/imgui_bundle_template/external/imgui_bundle/external/imgui-command-palette/imgui-command-palette/imcmd_fuzzy_search.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/cstdint \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__config \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__config_site \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__configuration/abi.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__configuration/compiler.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__configuration/platform.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__configuration/availability.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__configuration/language.h \
+  /home/joaco/emsdk/upstream/lib/clang/22/include/stdint.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/stdint.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/bits/alltypes.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/bits/stdint.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/cctype \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/ctype.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/ctype.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/features.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/cstring \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__cstddef/size_t.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__type_traits/is_constant_evaluated.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/compat/string.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/string.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/string.h \
+  /home/joaco/emsdk/upstream/emscripten/cache/sysroot/include/strings.h

@@ -1,0 +1,2 @@
+/home/joaco/emsdk/upstream/emscripten/emar qc libimgui_command_palette.a "CMakeFiles/imgui_command_palette.dir/imgui-command-palette/imgui-command-palette/imcmd_command_palette.cpp.o" "CMakeFiles/imgui_command_palette.dir/imgui-command-palette/imgui-command-palette/imcmd_fuzzy_search.cpp.o"
+/home/joaco/emsdk/upstream/emscripten/emranlib libimgui_command_palette.a

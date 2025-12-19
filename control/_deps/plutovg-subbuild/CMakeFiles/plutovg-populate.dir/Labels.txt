@@ -1,0 +1,14 @@
+# Target labels
+ plutovg-populate
+# Source files and their labels
+/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-subbuild/CMakeFiles/plutovg-populate
+/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-subbuild/CMakeFiles/plutovg-populate.rule
+/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-subbuild/CMakeFiles/plutovg-populate-complete.rule
+/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-subbuild/plutovg-populate-prefix/src/plutovg-populate-stamp/plutovg-populate-build.rule
+/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-subbuild/plutovg-populate-prefix/src/plutovg-populate-stamp/plutovg-populate-configure.rule
+/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-subbuild/plutovg-populate-prefix/src/plutovg-populate-stamp/plutovg-populate-download.rule
+/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-subbuild/plutovg-populate-prefix/src/plutovg-populate-stamp/plutovg-populate-install.rule
+/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-subbuild/plutovg-populate-prefix/src/plutovg-populate-stamp/plutovg-populate-mkdir.rule
+/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-subbuild/plutovg-populate-prefix/src/plutovg-populate-stamp/plutovg-populate-patch.rule
+/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-subbuild/plutovg-populate-prefix/src/plutovg-populate-stamp/plutovg-populate-test.rule
+/home/joaco/Documentos/imgui_bundle_template/build_emscripten/_deps/plutovg-subbuild/plutovg-populate-prefix/src/plutovg-populate-stamp/plutovg-populate-update.rule

@@ -1,0 +1,2 @@
+/home/joaco/emsdk/upstream/emscripten/emar qc libimmvision_gl_loader.a CMakeFiles/immvision_gl_loader.dir/immvision_gl_loader.cpp.o
+/home/joaco/emsdk/upstream/emscripten/emranlib libimmvision_gl_loader.a
